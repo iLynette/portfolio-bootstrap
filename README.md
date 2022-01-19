@@ -27,14 +27,14 @@ You only need a browser to run the html file.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/iLynette)
-- Twitter: [@twitterhandle](https://twitter.com/acholah_lynette)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lynette-acholah/)
+- GitHub: Lynette Acholah[@githubhandle](https://github.com/iLynette)
+- Twitter: Lynette Acholah[@twitterhandle](https://twitter.com/acholah_lynette)
+- LinkedIn: Lynette Acholah[LinkedIn](https://www.linkedin.com/in/lynette-acholah/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/jerryowusu)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jerry-owusu-0212b41a1/)
+- GitHub: Jerry Owusu[@githubhandle](https://github.com/jerryowusu)
+- LinkedIn: Jerry Owusu[LinkedIn](https://www.linkedin.com/in/jerry-owusu-0212b41a1/)
 
 
 ## 🤝 Contributing
